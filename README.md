@@ -18,11 +18,11 @@ Gain insights into individual strengths, consistency, and contribution.
 
 
 # 📁 Dashboard Pages
-🏏 Batting Analysis
+## 🏏 Batting Analysis
 
 Displays overall batting performance for each player.
 
-Key Metrics:
+**Key Metrics:**
 
 Highest Score, Strike Rate, Average, Runs, Innings, Matches
 
@@ -35,11 +35,11 @@ Includes filters for Player, Rank, and Span (Years) for dynamic exploration.
 <img width="1536" height="807" alt="image" src="https://github.com/user-attachments/assets/65c05aa1-050e-43b5-8711-033b8ec566ac" />
 
 
-🎯 Bowling Analysis
+## 🎯 Bowling Analysis
 
 Highlights detailed bowling performance and efficiency.
 
-Key Metrics:
+**Key Metrics:**
 
 Wickets, Economy Rate, Strike Rate, Average
 
@@ -52,11 +52,11 @@ Useful for comparing bowling consistency and strike capability.
 <img width="1487" height="806" alt="image" src="https://github.com/user-attachments/assets/f496f21e-ed6b-482c-ba2f-1788dfbeca15" />
 
 
-🧤 Fielding Analysis
+## 🧤 Fielding Analysis
 
 Focuses on player involvement and effectiveness in the field.
 
-Key Metrics:
+**Key Metrics:**
 
 Catches, Run-outs, Dismissals, Stumpings, Match Count
 
@@ -71,13 +71,13 @@ Gives a complete view of fielding contribution to team performance.
 
 # ⚙️ Tools & Technologies
 
-Power BI Desktop – Data modeling and visualization
+**Power BI Desktop** – Data modeling and visualization
 
-Power Query (M Language) – Data transformation
+**Power Query (M Language)** – Data transformation
 
-DAX (Data Analysis Expressions) – Calculations and KPIs
+**DAX (Data Analysis Expressions)** – Calculations and KPIs
 
-Data Source: ESPN Cricinfo
+**Data Source:** ESPN Cricinfo
 
 
 # Insights 
