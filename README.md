@@ -34,3 +34,6 @@ Identify top performers across different eras.
 Compare batting consistency and bowling economy.
 
 Visualize player strengths across multiple disciplines.
+
+<img width="1532" height="800" alt="image" src="https://github.com/user-attachments/assets/60592ef3-3338-4303-bf19-aba1ce4d859f" />
+
