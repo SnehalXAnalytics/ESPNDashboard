@@ -35,5 +35,14 @@ Compare batting consistency and bowling economy.
 
 Visualize player strengths across multiple disciplines.
 
-<img width="1532" height="800" alt="image" src="https://github.com/user-attachments/assets/60592ef3-3338-4303-bf19-aba1ce4d859f" />
+# Dashboard Images
+
+<img width="1536" height="807" alt="image" src="https://github.com/user-attachments/assets/65c05aa1-050e-43b5-8711-033b8ec566ac" />
+
+<img width="1487" height="806" alt="image" src="https://github.com/user-attachments/assets/f496f21e-ed6b-482c-ba2f-1788dfbeca15" />
+
+<img width="1532" height="800" alt="FieldingPage" src="https://github.com/user-attachments/assets/076a8522-53fb-44d9-8741-54662ade3788" />
+
+
+
 
