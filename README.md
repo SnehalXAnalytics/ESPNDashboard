@@ -80,7 +80,7 @@ Gives a complete view of fielding contribution to team performance.
 **Data Source:** ESPN Cricinfo
 
 
-# Insights 
+# 📈 Insights 
 
 Identify top performers across different eras.
 
